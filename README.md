@@ -43,11 +43,14 @@ GoogleMaps_DataExtractor is a Python-based tool designed to automate the extract
 - openpyxl
 - WebDriver Manager
 
+
+
 ## Installation
 
 Install the required packages using pip:
 ```bash
 pip install selenium openpyxl webdriver_manager
+```
 
 ## Contributing
 
@@ -60,4 +63,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Acknowledgments
 
 Thanks to the contributors and the Python community for their support and resources.
-
